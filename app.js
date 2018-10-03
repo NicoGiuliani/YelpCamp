@@ -9,6 +9,10 @@ let campgrounds = [
 		{name: "The Falls", image: "https://farm2.staticflickr.com/1086/882244782_d067df2717.jpg"},
 		{name: "Beacon Hill", image: "https://farm8.staticflickr.com/7205/7121863467_eb0aa64193.jpg"},
 		{name: "Bowl and Pitcher", image: "https://farm5.staticflickr.com/4423/37232133702_342e447ccb.jpg"},
+		{name: "Garden Springs", image: "https://farm5.staticflickr.com/4100/4798314980_bc31231984.jpg"},
+		{name: "The Falls", image: "https://farm2.staticflickr.com/1086/882244782_d067df2717.jpg"},
+		{name: "Beacon Hill", image: "https://farm8.staticflickr.com/7205/7121863467_eb0aa64193.jpg"},
+		{name: "Bowl and Pitcher", image: "https://farm5.staticflickr.com/4423/37232133702_342e447ccb.jpg"},
 		{name: "Garden Springs", image: "https://farm5.staticflickr.com/4100/4798314980_bc31231984.jpg"}
 	];
 
